@@ -10,6 +10,8 @@ I describe my hobby, interest, work, and etc...
 2. [Daily coding](https://opentutorials.org/course/1)
 3. [Raspberry Pi](https://www.raspberrypi.org/)
 
+### Always pursue simple coding
+
 ### Markdown Syntax
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
