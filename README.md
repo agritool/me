@@ -3,7 +3,7 @@
 This is my homepage to introduce myself.
 I describe my hobby, interest, work, and etc...
 
-```myintro
+```markdown
 Hello~
 ```
 
