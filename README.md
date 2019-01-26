@@ -3,9 +3,7 @@
 This is my homepage to introduce myself.
 I describe my hobby, interest, work, and etc...
 
-```markdown
-Hello~
-```
+![Photo](https://agritool.github.io/me/img/me.jpg)
 
 ### Markdown
 
