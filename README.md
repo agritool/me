@@ -3,6 +3,10 @@
 This is my homepage to introduce myself.
 I describe my hobby, interest, work, and etc...
 
+```myintro
+Hello~
+```
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
